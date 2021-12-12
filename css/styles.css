@@ -15,3 +15,16 @@ h1 {
 h3 {
   color: #66BFBF;
 }
+img:hover {
+  background-color: gold;
+}
+
+
+.circular {
+  border-radius: 50%;
+  background-color: #EAF6F6;
+}
+
+.programming-career {
+  padding-left: 1.5%;
+}
